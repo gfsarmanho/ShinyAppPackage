@@ -1,3 +1,6 @@
+#==============#
+# Shiny Server #
+#==============#
 server <- function(input, output) {
 
   output$histPlot <- renderPlot({

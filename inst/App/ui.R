@@ -1,3 +1,12 @@
+# Load packages
+library(shiny)
+
+# Load R functions
+source("R-functions.R")
+
+#==========#
+# Shiny UI #
+#==========#
 ui <- fluidPage(
 
   # App title

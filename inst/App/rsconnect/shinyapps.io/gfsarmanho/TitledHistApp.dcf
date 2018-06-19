@@ -1,0 +1,12 @@
+name: TitledHistApp
+title: TitledHistApp
+username:
+account: gfsarmanho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 363158
+bundleId: 1437594
+url: https://gfsarmanho.shinyapps.io/TitledHistApp/
+when: 1529423147.64475
+asMultiple: FALSE
+asStatic: FALSE
